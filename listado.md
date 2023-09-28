@@ -5,3 +5,5 @@
 - Daniel Antolinez
 - Daniel Ramirez
 - Don Profe
+- Luis Eduardo
+  
