@@ -6,3 +6,5 @@
 - Daniel Ramirez
 - Juan Felipe Lopez
 - Don Profe
+- Luis Eduardo
+  
