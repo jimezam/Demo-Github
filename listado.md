@@ -2,3 +2,4 @@
 
 - Jorge I. Meza
 - Daniel Antolinez
+- Daniel Ramirez
